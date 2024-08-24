@@ -1,0 +1,20 @@
+1002
+Bob Smith
+cardiology
+25/11/2023
+1000
+1003
+Emily Davis
+pediatrics
+26/11/2023
+0900
+1004
+David Miller
+radiology
+25/11/2023
+1100
+1011
+Howard Stark
+Radiology
+23/11/2023
+1100

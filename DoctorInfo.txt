@@ -1,0 +1,80 @@
+Nurul Azizah
+2001
+010215-12-3456
+Cardiology
+02/15/1985
++60 12-3456 7890
+nurul.azizah@example.com
+123 Jalan Merdeka, Kuala Lumpur
+Tan Wei Lin
+2002
+021223-23-4567
+Pediatrics
+12/23/1982
++60 11-2345 6789
+tan.weilin@example.com
+456 Jalan Ria, Penang
+Rajesh Kumar
+2003
+030315-34-5678
+Orthopedics
+03/15/1983
++60 14-5678 9012
+rajesh.kumar@example.com
+789 Jalan Bahagia, Johor Bahru
+Siti Aisyah
+2004
+040421-45-6789
+Neurology
+04/21/1984
++60 15-6789 0123
+siti.aisyah@example.com
+234 Jalan Damai, Kuala Lumpur
+Wong Mei Ling
+2005
+051128-56-7890
+Ophthalmology
+11/28/1985
++60 16-7890 1234
+wong.meiling@example.com
+567 Jalan Sentosa, Penang
+Harjit Singh
+2006
+060224-67-8901
+Dermatology
+02/24/1986
++60 17-9012 3456
+harjit.singh@example.com
+890 Jalan Sejahtera, Johor Bahru
+Aisha Lim
+2007
+070419-78-9012
+Gynecology
+04/19/1987
++60 18-1234 5678
+aisha.lim@example.com
+1234 Jalan Indah, Kuala Lumpur
+Aziz Ibrahim
+2008
+080731-89-0123
+Urology
+07/31/1988
++60 19-2345 6789
+aziz.ibrahim@example.com
+4567 Jalan Bahasa, Penang
+Lina Abdullah
+2009
+090905-90-1234
+Psychiatry
+09/05/1989
++60 10-1234 5678
+lina.abdullah@example.com
+7890 Jalan Bahagia, Johor Bahru
+Lim Chee Seng
+2010
+1002118-01-2345
+General Medicine
+18/02/1990
++60123698544
+Lim.cheeseng@example.com
+12345 Jalan Damai, Kuala Lumpur

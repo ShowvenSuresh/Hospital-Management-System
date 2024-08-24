@@ -1,0 +1,30 @@
+0004
+Peter Parker
+RM1092.93
+PAID
+Mon Nov 13 12:31:58 2023
+0006
+Emma Garcia
+RM1145.23
+NOTPAID
+Tue Nov 14 15:16:22 2023
+0005
+Michael Wilson
+RM123.52
+PAID
+Sat Nov 18 17:53:00 2023
+0007
+Daniel Anderson
+RM741.36
+PAID
+Sat Nov 18 17:56:33 2023
+0008
+Sophia Lee
+RM236.25
+NOTPAID
+Sat Nov 25 16:45:17 2023
+006
+Sophia Lee
+RM381.72
+PAID
+Mon Nov 27 00:06:41 2023

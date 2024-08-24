@@ -1,0 +1,70 @@
+Alice Johnson
+1001
+120385-12-3456
+1985-03-12
++6012-5551234
+alice.johnson@example.com
+123 Main Street, Cityville
+Bob Smith
+1002
+180790-11-2345
+1990-07-18
++6012-5555678
+bob.smith@example.com
+456 Oak Avenue, Townsville
+Emily Davis
+1003
+251178-08-9123
+1978-11-25
++6012-5558765
+emily.davis@example.com
+789 Pine Street, Villagetown
+David Miller
+1004
+030582-03-4567
+1982-05-03
++6012-5554321
+david.miller@example.com
+101 Cedar Lane, Hamletville
+Sophia Lee
+1005
+090995-09-5678
+1995-09-09
++6012-5559876
+sophia.lee@example.com
+202 Maple Road, Villagetown
+Olivia Taylor
+1007
+300198-01-6789
+1998-01-30
++6012-5556543
+olivia.taylor@example.com
+404 Birch Avenue, Townsville
+Daniel Anderson
+1008
+220880-08-9123
+1980-08-22
++6012-5558765
+daniel.anderson@example.com
+505 Oak Lane, Villagetown
+Emma Garcia
+1009
+170693-06-5678
+1993-06-17
++6012-5552345
+emma.garcia@example.com
+606 Pine Road, Hamletville
+Ethan Hernandez
+1010
+051289-12-3456
+1989-12-05
++6012-5558765
+ethan.hernandez@example.com
+707 Cedar Street, Cityville
+Howard Stark
+1011
+710221-10-0653
+21/02/1971
++60165878569
+Howardstark@gmail.com
+No. 34 Jalan bp5/3 Bandar bukit puchong 2
